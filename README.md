@@ -1,22 +1,23 @@
-## Wppool
+# Project 
+## Wapool
 <br>
-install Xampp.
+- Install Xampp.
 <br>
-then log in to WP and create a database on xampp.
+then log in to WP and create a database on XAMP.
 <br>
-Then Connect
+- Then Connect
 <br>
-Then Active, navigate to the WP Dark Mode.
+- Then Active, navigate to the WP Dark Mode.
 <br>
-Enable Admin Dashboard Dark Mode from Controls.
+- Enable Admin Dashboard Dark Mode from Controls.
 <br>
-The dark mode is working.
+- The dark mode is working.
 <br>
-Customization Dark mode from plugin -> left bottom.
+- Customization Dark mode from plugin -> left bottom.
 <br>
-Create animation.
+- Create animation.
 <br>
-Disable Keyboard Shortcut.
+- Disable the Keyboard Shortcut.
 <br>
-Dark mode is working from the Frontend.
+- Dark mode is working from the front-end.
 
