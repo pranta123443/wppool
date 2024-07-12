@@ -3,7 +3,7 @@
 <br>
 - Install Xampp.
 <br>
-then log in to WP and create a database on XAMP.
+- Then log in to WP and create a database on XAMP.
 <br>
 - Then Connect
 <br>
